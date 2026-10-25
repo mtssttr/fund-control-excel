@@ -1,0 +1,65 @@
+{
+  "asOf": "2026-10-25",
+  "priceSource": "Série de cours fictifs déterministes, créée pour la démonstration publique",
+  "period": [
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-25"
+  ],
+  "syntheticPriceFormula": "base + variation quotidienne × indice du jour + motif cyclique",
+  "simulated": [
+    "cours",
+    "ordres et prix d’exécution",
+    "frais",
+    "dépositaire",
+    "VL de référence"
+  ],
+  "independence": "Les états dépositaires et la VL de référence sont figés depuis les opérations complètes avant altération des fichiers internes.",
+  "incidentIDs": [
+    "INC-01",
+    "INC-02",
+    "INC-03",
+    "INC-04",
+    "INC-05",
+    "INC-06"
+  ],
+  "corporateActionCheck": [
+    [
+      "Air Liquide",
+      "Dividende 18/05/2026 et attribution gratuite 10/06/2026, hors période",
+      "https://www.airliquide.com/group/press-releases-news/2026-05-05/combined-general-meeting-air-liquide-shareholders-may-5-2026",
+      "https://www.airliquide.com/help/free-share-attribution"
+    ],
+    [
+      "Schneider Electric",
+      "Détachement du dividende 11/05/2026, hors période",
+      "https://www.se.com/ww/en/about-us/investor-relations/share-information/dividend/",
+      ""
+    ],
+    [
+      "Danone",
+      "Détachement du dividende 04/05/2026, hors période",
+      "https://www.danone.com/newsroom/press-releases/press-release-detail/danone-shareholders-meeting-2026.html",
+      ""
+    ],
+    [
+      "L'Oréal",
+      "Détachement du dividende 29/04/2026, hors période",
+      "https://www.loreal-finance.com/eng/press-release/annual-general-meeting-24-april-2026",
+      ""
+    ],
+    [
+      "Vinci",
+      "Détachement de l’acompte 13/10/2026, hors période",
+      "https://rss.globenewswire.com/fr/news-release/2026/07/29/3335498/0/en/vinci-excellent-financial-performance-in-the-first-half-of-2026.html",
+      ""
+    ]
+  ]
+}
